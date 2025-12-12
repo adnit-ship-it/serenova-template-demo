@@ -313,8 +313,8 @@
       {
         "product-card-badge": {
           "type": "badge",
-          "color": "bodyColor",
-          "backgroundColor": "backgroundColor",
+          "color": "backgroundColor",
+          "backgroundColor": "accentColor1",
           "show": true
         }
       },
@@ -333,22 +333,22 @@
     "components": [
       {
         "heading": {
-          "text": "Frequently Asked Questions",
+          "text": "Frequently Asked Questionsasdsa",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         }
       },
       {
         "faq": [
           {
-            "question": "How long is the process on average?",
-            "answer": "The entire process typically takes 2-3 weeks from initial consultation to receiving your medication. This includes the consultation, prescription review, and expedited delivery to your doorstep.",
+            "question": "How long is the process on asdaverage?",
+            "answer": "The entire process typically takes 2-3 weeks froasdm initial consultation to receiving your medication. This includes the consultation, prescription review, and expedited delivery to your doorstep.",
             "order": 1
           },
           {
-            "question": "Are there any additional fees?",
-            "answer": "No hidden fees! Our transparent pricing includes everything: consultation, prescription, and expedited delivery. What you see is what you pay.",
+            "question": "Are there any additional fees?asd",
+            "answer": "No hidden fees! Our transparent pricingasd includes everything: consultation, prescription, and expedited delivery. What you see is what you pay.",
             "order": 2
           },
           {
@@ -370,7 +370,7 @@
     "components": [
       {
         "heading": {
-          "text": "Reach your goal weight",
+          "text": "Reach your asdasdasweight",
           "type": "text",
           "color": "bodyColor",
           "show": true
@@ -383,7 +383,7 @@
     "components": [
       {
         "logo": {
-          "src": "/assets/images/brand/logo-secondary-1.svg",
+          "src": "/assets/images/brand/logo-1765540080187.svg",
           "alt": "brand logo",
           "type": "svg-image",
           "show": true
@@ -391,7 +391,7 @@
       },
       {
         "heading": {
-          "text": "About Us",
+          "text": "About Ussa",
           "type": "text",
           "color": "accentColor1",
           "show": true
@@ -409,7 +409,7 @@
         "paragraph": {
           "text": "We are a team of dedicated professionals who are passionate about helping people achieve their goals. We are a team of dedicated professionals who are passionate about helping people achieve their goals.",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         }
       },
@@ -456,6 +456,10 @@
           {
             "src": "/assets/images/clients/new-york-times.png",
             "alt": "The New York Times logo"
+          },
+          {
+            "src": "/assets/images/brand/logo-1765540102714.svg",
+            "alt": "asd"
           }
         ]
       }
