@@ -108,14 +108,6 @@
         "marqueeSpeed": 150,
         "logos": [
           {
-            "src": "/assets/images/brand/logo-1765540102714.svg",
-            "alt": "Bloomberg logo"
-          },
-          {
-            "src": "/assets/images/brand/logo-1765540080187.svg",
-            "alt": "Forbes logo"
-          },
-          {
             "src": "/assets/images/clients/fortune.png",
             "alt": "Fortune logo"
           },
@@ -124,8 +116,16 @@
             "alt": "Healthline logo"
           },
           {
-            "src": "/assets/images/clients/new-york-times.png",
+            "src": "/assets/images/brand/logo-1765540080187.svg",
             "alt": "The New York Times logo"
+          },
+          {
+            "src": "/assets/images/brand/logo-primary-1.svg",
+            "alt": ""
+          },
+          {
+            "src": "/assets/images/brand/logo-1765540102714.svg",
+            "alt": ""
           }
         ]
       }
