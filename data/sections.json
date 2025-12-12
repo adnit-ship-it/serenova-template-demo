@@ -313,8 +313,8 @@
       {
         "product-card-badge": {
           "type": "badge",
-          "color": "bodyColor",
-          "backgroundColor": "backgroundColor",
+          "color": "backgroundColor",
+          "backgroundColor": "accentColor1",
           "show": true
         }
       },
