@@ -75,8 +75,8 @@
     },
     "loadingScreen": {
       "height": {
-        "mobile": "20px",
-        "desktop": "132px"
+        "mobile": "120px",
+        "desktop": "232px"
       },
       "width": {
         "mobile": "auto",
@@ -122,7 +122,7 @@
   },
   "loadingScreen": {
     "logo": {
-      "src": "/assets/images/brand/logo-secondary-1.svg",
+      "src": "/assets/images/brand/logo-1765540080187.svg",
       "alt": "Serenova loading logo"
     },
     "text": "Loading..."
