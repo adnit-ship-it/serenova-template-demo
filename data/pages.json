@@ -374,7 +374,7 @@
   },
   "products": {
     "title": "Products",
-    "show": true,
+    "show": false,
     "pageTitle": "Explore Our Products",
     "subtitle": "Personalized GLP-1 Medication",
     "categoryButton": "Weight Loss",
