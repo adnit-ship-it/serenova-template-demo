@@ -142,10 +142,10 @@
           "show": true
         },
         "button": {
-          "text": "Start Today",
+          "text": "Start Todayed",
           "type": "button",
-          "color": "accentColor1",
-          "backgroundColor": "accentColor1",
+          "color": "backgroundColor",
+          "backgroundColor": "accentColor2",
           "show": true
         },
         "media": {
@@ -158,17 +158,6 @@
         },
         "steps": [
           {
-            "title": "Case Created",
-            "subtext": "Fill out the form and get excited!",
-            "icon": {
-              "src": "/assets/images/case-created.svg",
-              "alt": "Case created icon",
-              "type": "svg-image",
-              "color": "#A75809"
-            },
-            "order": 1
-          },
-          {
             "title": "Virtual Consult",
             "subtext": "Get matched and meet with a provider",
             "icon": {
@@ -177,7 +166,7 @@
               "type": "svg-image",
               "color": "#A75809"
             },
-            "order": 2
+            "order": 1
           },
           {
             "title": "Patient Approved",
@@ -188,7 +177,7 @@
               "type": "svg-image",
               "color": "#A75809"
             },
-            "order": 3
+            "order": 2
           },
           {
             "title": "Prescription Sent",
@@ -199,7 +188,7 @@
               "type": "svg-image",
               "color": "#A75809"
             },
-            "order": 4
+            "order": 3
           },
           {
             "title": "Case Closed",
@@ -207,6 +196,17 @@
             "icon": {
               "src": "/assets/images/case-closed.svg",
               "alt": "Case closed icon",
+              "type": "svg-image",
+              "color": "#A75809"
+            },
+            "order": 4
+          },
+          {
+            "title": "Case Created",
+            "subtext": "Fill out the form and get excited!",
+            "icon": {
+              "src": "/assets/images/case-created.svg",
+              "alt": "Case created icon",
               "type": "svg-image",
               "color": "#A75809"
             },
