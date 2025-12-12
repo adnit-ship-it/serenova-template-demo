@@ -315,7 +315,7 @@
           "type": "badge",
           "color": "backgroundColor",
           "backgroundColor": "accentColor1",
-          "show": true
+          "show": false
         }
       },
       {
