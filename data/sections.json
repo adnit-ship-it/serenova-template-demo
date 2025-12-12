@@ -16,22 +16,23 @@
           "show": true
         },
         "subheading": {
-          "text": "Personalized GLP-1 Medication",
+          "text": "Personalized GLP-1 Medicationsda",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         },
         "bulletPoints": {
           "show": true,
           "type": "bulletpoints",
           "icon": {
-            "src": "/assets/images/brand/check.svg",
-            "color": "accentColor1"
+            "src": "/assets/images/checkmark-star.svg",
+            "color": "bodyColor"
           },
           "items": [
-            "Trusted by experts",
-            "Data-Driven Approach",
-            "Exceptional care"
+            "Trusted by expertsasd",
+            "Data-Driven Approachdsa",
+            "Exceptional care",
+            "asd"
           ]
         },
         "ctaButton": {
