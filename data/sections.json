@@ -105,14 +105,14 @@
           "color": "bodyColor",
           "show": true
         },
-        "marqueeSpeed": 50,
+        "marqueeSpeed": 150,
         "logos": [
           {
-            "src": "/assets/images/clients/bloomberg.png",
+            "src": "/assets/images/brand/logo-1765540102714.svg",
             "alt": "Bloomberg logo"
           },
           {
-            "src": "/assets/images/clients/forbes.png",
+            "src": "/assets/images/brand/logo-1765540080187.svg",
             "alt": "Forbes logo"
           },
           {
