@@ -523,13 +523,13 @@
     "components": [
       {
         "logo": {
-          "src": "/assets/images/brand/logo-primary-1.svg",
+          "src": "/assets/images/brand/logo-1765540080187.svg",
           "alt": "brand logo",
           "type": "svg-image",
           "show": true
         },
         "heading": {
-          "text": "Contact Us: Fill out the form and hear back from us",
+          "text": "Contact Us: Fill out the fdsorm and hear back from us",
           "type": "text",
           "color": "bodyColor",
           "show": true
