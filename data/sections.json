@@ -145,7 +145,7 @@
           "text": "Start Todayed",
           "type": "button",
           "color": "backgroundColor",
-          "backgroundColor": "accentColor2",
+          "backgroundColor": "accentColor1",
           "show": true
         },
         "media": {
