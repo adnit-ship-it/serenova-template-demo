@@ -36,6 +36,16 @@
       "type": "secondary",
       "path": "/assets/images/brand/logo-secondary-1.svg",
       "description": "Secondary/alternative brand logo (used in footer)"
+    },
+    "logo3": {
+      "type": "custom",
+      "path": "/assets/images/brand/logo-1765540080187.svg",
+      "description": "Custom logo logo3"
+    },
+    "logo4": {
+      "type": "custom",
+      "path": "/assets/images/brand/logo-1765540102714.svg",
+      "description": "Custom logo logo4"
     }
   },
   "logoSizes": {
