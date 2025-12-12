@@ -286,7 +286,7 @@
         "heading": {
           "text": "Before & After byf",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         }
       },
