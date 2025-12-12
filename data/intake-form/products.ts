@@ -8,7 +8,7 @@ export const products: Product[] = [
   {
     id: "ozempic-injection",
     name: "Ozempic Injection",
-    description: "Weekly GLP-1 injection for weight loss and blood sugar control",
+    description: "Weekly GLP-1 injection for weight loss and blood sugar controlasdas",
     img: "/assets/images/products/ozempic-injection.png",
     thumbnail: "/assets/images/products/ozempic-injection.png",
     prices: {
