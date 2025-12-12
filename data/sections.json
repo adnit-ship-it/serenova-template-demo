@@ -37,7 +37,7 @@
         },
         "ctaButton": {
           "type": "button",
-          "text": "Take the Assessment",
+          "text": "Take the Assessmentsda",
           "color": "white",
           "backgroundColor": "accentColor1",
           "show": true
