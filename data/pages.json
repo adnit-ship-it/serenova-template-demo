@@ -87,19 +87,19 @@
       "height": {
         "mobile": "34px",
         "tablet": "38px",
-        "desktop": "100px"
+        "desktop": "150px"
       },
       "width": {
         "mobile": "192px",
         "tablet": "280px",
-        "desktop": "365px"
+        "desktop": "auto"
       }
     },
     "contact": {
       "height": {
         "mobile": "56px",
         "tablet": "72px",
-        "desktop": "88px"
+        "desktop": "150px"
       },
       "width": {
         "mobile": "auto",
@@ -111,7 +111,7 @@
       "height": {
         "mobile": "48px",
         "tablet": "64px",
-        "desktop": "100px"
+        "desktop": "150px"
       },
       "width": {
         "mobile": "auto",
