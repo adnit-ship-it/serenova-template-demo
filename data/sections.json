@@ -391,7 +391,7 @@
       },
       {
         "heading": {
-          "text": "About Us",
+          "text": "About Ussa",
           "type": "text",
           "color": "accentColor1",
           "show": true
@@ -409,7 +409,7 @@
         "paragraph": {
           "text": "We are a team of dedicated professionals who are passionate about helping people achieve their goals. We are a team of dedicated professionals who are passionate about helping people achieve their goals.",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         }
       },
