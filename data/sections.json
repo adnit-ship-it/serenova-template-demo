@@ -294,35 +294,13 @@
         "before-after": [
           {
             "image": {
-              "src": "/assets/images/before-after/1.png",
-              "alt": "Before image",
+              "src": "/assets/images/image-1765541824485.png",
+              "alt": "test",
               "type": "image",
-              "stars": 4,
-              "testimonial": "The questions are to the point and easy to navigate. I'm able to voice my concerns if needed and ask questions of Serenova. They are quick to respond and keep me updated on my prescription.",
-              "name": "Anna K",
+              "stars": 5,
+              "testimonial": "ery nice",
+              "name": "Adnit",
               "order": 1
-            }
-          },
-          {
-            "image": {
-              "src": "/assets/images/before-after/2.png",
-              "alt": "After image",
-              "type": "image",
-              "stars": 5,
-              "testimonial": "Amazing results! I've never felt better.",
-              "name": "Sarah M.",
-              "order": 2
-            }
-          },
-          {
-            "image": {
-              "src": "/assets/images/before-after/3.png",
-              "alt": "After image",
-              "type": "image",
-              "stars": 5,
-              "testimonial": "This program is life-changing. Highly recommend!",
-              "name": "Michael R.",
-              "order": 3
             }
           }
         ]
