@@ -65,15 +65,15 @@
     "components": [
       {
         "heading": {
-          "text": "Discover Our Products",
+          "text": "Discover Our Productszxcxz",
           "type": "text",
-          "color": "white",
+          "color": "accentColor1",
           "show": true
         },
         "subheading": {
-          "text": "Lose Weight Today",
+          "text": "Lose Weight Todayxc",
           "type": "text",
-          "color": "white",
+          "color": "#B16868",
           "show": true
         },
         "media": {
