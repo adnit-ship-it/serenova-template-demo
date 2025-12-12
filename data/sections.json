@@ -333,22 +333,22 @@
     "components": [
       {
         "heading": {
-          "text": "Frequently Asked Questions",
+          "text": "Frequently Asked Questionsasdsa",
           "type": "text",
-          "color": "bodyColor",
+          "color": "accentColor1",
           "show": true
         }
       },
       {
         "faq": [
           {
-            "question": "How long is the process on average?",
-            "answer": "The entire process typically takes 2-3 weeks from initial consultation to receiving your medication. This includes the consultation, prescription review, and expedited delivery to your doorstep.",
+            "question": "How long is the process on asdaverage?",
+            "answer": "The entire process typically takes 2-3 weeks froasdm initial consultation to receiving your medication. This includes the consultation, prescription review, and expedited delivery to your doorstep.",
             "order": 1
           },
           {
-            "question": "Are there any additional fees?",
-            "answer": "No hidden fees! Our transparent pricing includes everything: consultation, prescription, and expedited delivery. What you see is what you pay.",
+            "question": "Are there any additional fees?asd",
+            "answer": "No hidden fees! Our transparent pricingasd includes everything: consultation, prescription, and expedited delivery. What you see is what you pay.",
             "order": 2
           },
           {
